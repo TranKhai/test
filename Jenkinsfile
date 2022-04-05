@@ -6,15 +6,5 @@
                   echo 'hello' 
              }
          }
-        //   stage('Test') { 
-        //       steps {
-                   
-        //       }
-        //   }
-        //   stage('Deploy') { 
-        //       steps {
-                   
-        //       }
-        //   }
      }
  }
