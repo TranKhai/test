@@ -6,15 +6,15 @@ pipeline {
                 echo 'hi' 
             }
         }
-        //stage('Test') { 
-            //steps {
-                // 
-          //  }
-        //}
-        //stage('Deploy') { 
-            //steps {
-                // 
-          //  }
-        //}
+        # stage('Test') { 
+        #     steps {
+        #          
+        #     }
+        # }
+        # stage('Deploy') { 
+        #     steps {
+        #          
+        #     }
+        # }
     }
 }
